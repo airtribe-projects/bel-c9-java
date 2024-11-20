@@ -1,0 +1,6 @@
+rootProject.name = 'OAuth2.0'
+
+include 'authorization-server'
+include 'ClientOAuth2'
+include 'ResourceServer'
+
